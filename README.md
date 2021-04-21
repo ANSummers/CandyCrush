@@ -1,6 +1,6 @@
 # CandyCrush
 
-Tutorial by Ania Kubow
+Tutorial and images by Ania Kubow
 
 follow along on YouTube:
 
