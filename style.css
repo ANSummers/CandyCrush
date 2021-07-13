@@ -37,9 +37,7 @@ body {
 .score-board {
   background-color: pink;
   border-radius: 10px;
-  margin-top: 200px;
-  margin-left: 200px;
-  margin-bottom: 350px;
+  margin: auto;
   min-width: 200px;
 
   display: flex;
