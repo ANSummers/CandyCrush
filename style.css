@@ -3,13 +3,13 @@
   width: 560px;
   display: flex;
   flex-wrap: wrap;
-  margin-left: 80px;
-  margin-top: 50px;
-  background-color: rgba(109, 127, 151, 0.5);
+  margin: auto;
+  background-color: #fff8fd;
   padding: 5px;
   border-radius: 10px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5) inset, 0 1px 0 #fff;
-  color: #85796b;
+  box-shadow: 0 2px 4px rgba(92, 90, 90, 0.5) inset, 0 1px 0 #fff;
+  color: white;
+  align-content: space-around;
 }
 
 .grid div {
@@ -30,7 +30,7 @@ h1 {
 }
 
 body {
-  background-image: url("images/candy-crush-background-2.png");
+  background-image: url("images/sugarsmash.png");
   max-width: auto;
   display: flex;
 }
@@ -47,7 +47,7 @@ body {
   justify-content: space-between;
   align-items: center;
   text-align: center;
-  background-image: linear-gradient(#ffb6c1, #ffc0cb);
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5) inset, 0 1px 0 #fff;
+  background-image: linear-gradient(#fffccf, #ffe8f9);
+  box-shadow: 0 2px 4px rgba(92, 90, 90, 0.5) inset, 0 1px 0 #fff;
   color: #85796b;
 }
